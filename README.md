@@ -1,6 +1,8 @@
 Dockerized Project
 ==================
 
+### ARCHIVED: This project is no longer maintained. We are developing now an environment "space-harbor" based on Kubernetes
+
 Automated deployment of Dockerized environment from GIT which includes:
 
 - systemd integration
